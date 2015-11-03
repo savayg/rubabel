@@ -21,7 +21,7 @@ interface attempts to be a ruby-ish analogue of pybel.}
 
   [
     ["andand", "~> 1.3.3"],
-    ["mini_magick", "~> 3.6.0"]
+    ["mini_magick", "~> 4.2.0"]
   ].each do |args|
     spec.add_dependency(*args)
   end
